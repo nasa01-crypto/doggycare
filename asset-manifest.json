@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/doggycare/static/css/main.12c8a1f0.css",
-    "main.js": "/doggycare/static/js/main.ff93636d.js",
+    "main.js": "/doggycare/static/js/main.c87e4dfc.js",
     "static/media/about-img.jpg": "/doggycare/static/media/about-img.96322176786f1dabe1f4.jpg",
     "static/media/library-img.jpg": "/doggycare/static/media/library-img.8ceabc7248421eb4499f.jpg",
     "static/media/logo.png": "/doggycare/static/media/logo.148e73db6edba553eae3.png",
     "index.html": "/doggycare/index.html",
     "main.12c8a1f0.css.map": "/doggycare/static/css/main.12c8a1f0.css.map",
-    "main.ff93636d.js.map": "/doggycare/static/js/main.ff93636d.js.map"
+    "main.c87e4dfc.js.map": "/doggycare/static/js/main.c87e4dfc.js.map"
   },
   "entrypoints": [
     "static/css/main.12c8a1f0.css",
-    "static/js/main.ff93636d.js"
+    "static/js/main.c87e4dfc.js"
   ]
 }
